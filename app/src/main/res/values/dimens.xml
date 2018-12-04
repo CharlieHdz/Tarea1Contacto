@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="left">20dp</dimen>
+    <dimen name="leftshort">10dp</dimen>
+    <dimen name="top">20dp</dimen>
+    <dimen name="between">9dp</dimen>
+</resources>
